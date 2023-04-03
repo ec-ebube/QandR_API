@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m8F7LAN4EKPz40XXtL3Eb2UjHbm5G9fe0Kaj+rIbKeA=",
+  "Source": "qandr_api",
+  "BasePath": "_content/qandr_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

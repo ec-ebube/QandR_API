@@ -1,1 +1,0 @@
-# QandR_API
